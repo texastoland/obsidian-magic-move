@@ -1,7 +1,7 @@
 {
 	"id": "magic-move",
 	"name": "Magic Move",
-	"version": "0.0.1",
+	"version": "0.0.2-alpha",
 	"minAppVersion": "0.15.0",
 	"description": "Animating code blocks with markdown and code syntax highlighting with beautiful themes.",
 	"author": "imfenghuang",
